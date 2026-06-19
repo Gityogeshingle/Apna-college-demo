@@ -1,4 +1,4 @@
 # Apna-college-demo
 This is my first Git Repository.
 <br>
-Author - Yogesh Ingle
+Author - Yogesh (Apna College)
